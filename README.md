@@ -4,4 +4,6 @@ It is Android Application that tracks Covid-19 Spread All Over the World.
 
 Data is provided by WHO & Govt. Verified Api
 
-<img src="splash_screen.jpg" height = "500" width ="300" alt="SplashScreen" border="5">
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="splash_screen.jpg" width="250"> | <img src="india_stats" width="250"> |
