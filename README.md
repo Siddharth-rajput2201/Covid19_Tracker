@@ -13,7 +13,8 @@ Data is provided by WHO & Govt. Verified Api
 |------------|-------------|-------------|
 | <img src="total_cases.jpg" width="250"> | <img src="most_affected.jpg" width="250"> | <img src="info_panel.jpg" width="250"> |
 
-| State Stats     | County Stats     | Info Panel      |
+| India State Stats     | Countries Stats     | FAQs      |
 |------------|-------------|-------------|
-| <img src="state_stats.jpg" width="250"> | <img src="country_stats.jpg" width="250"> | <img src="info_panel.jpg" width="250"> |
+| <img src="state_stats.jpg" width="250"> | <img src="country_stats.jpg" width="250"> | <img src="faqs.jpg" width="250"> |
+
 
