@@ -1,8 +1,8 @@
-# covid - 19 Tracker
+# covid-19 Tracker
 
-It is Android Application that tracks Covid-19 Spread All Over the World.
+It is Flutter App exported for Android Application that has the capabilty to track Covid-19 Spread All Over the World.
 
-Data is provided by WHO & Govt. Verified Api
+here the Data is Driven From WHO & Govt websites using highly secure and Verified Api's
 
 | Splash Screen     | Symtoms & Precautions      | India Stats      |
 |------------|-------------|-------------|
